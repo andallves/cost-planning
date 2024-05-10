@@ -1,11 +1,13 @@
 <h1 align="center">Planejador de Custo</h1>
 
 <div margin="auto">
+  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
 </div>
 
 <p align="center">
@@ -56,4 +58,4 @@ Depois, para rodar a aplicação:
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-Continuarei trabalhando nesse projeto, fazendo atualização e adicionando novas funcionalidades.
+Continuarei trabalhando nesse projeto, trazendo atualizações e adicionando novas funcionalidades.
